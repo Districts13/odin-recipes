@@ -1,0 +1,32 @@
+* {
+    background: #e8d6b9;
+    font-family: 'Times New Roman', serif;
+
+}
+
+.recipe {
+    max-width: 70ch;
+    width: calc(100% - 4rem);
+    margin: 0 auto;
+}
+
+h1 {
+    border-bottom: 4px solid hsl(0, 0%, 0%);
+}
+
+li {
+    background: #d5b989;
+    width: 800px;
+    font-family: "Arial Narrow", Arial, sans-serif;
+
+}
+
+img {
+    height: auto;
+    width: 750px;
+}
+
+.main-img{
+    width: auto;
+    height: 500px;
+}
