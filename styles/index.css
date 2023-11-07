@@ -12,5 +12,8 @@ a {
     font-family: 'Times New Roman', serif;
     font-weight: bold;
     text-decoration: none;
+    transition: background-color 0.6s;
 }
-a:hover { background: #d5b989;}
+a:hover {
+    background: #d5b989;
+}
